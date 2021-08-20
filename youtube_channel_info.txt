@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-BNC | BNC |  |
-https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+BNC | SEN |  |
+https://www.youtube.com/channel/UC3p-0EWA8OXko2EUDUXAy5w/live
